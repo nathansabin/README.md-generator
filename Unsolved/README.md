@@ -1,10 +1,8 @@
-# README.md generator 
+# test title 
   
   ## Description
 
-  This project will create a "README.md" file off of user input. This project was created with JS, Node, and the inquirer package. As a developer I was able to get a better understanding of how packages work and how to create files. 
-
-  This is not a licensed project, I included that portion of the "README.md" to show it worked.
+  JS project
 
   ## Table of Contents 
 
@@ -24,22 +22,15 @@
 
   ## Installation
   
-  Go to this link https://github.com/nathansabin/README.md-generator and clone the repo to a folder. move over to the file and run "node.js".
+  github
 
   ## Usage
 
-  Fill out the prompt making sure if you used a license to only use MIT, Apache, or GNU. The only other thing is to move the README.md file to the desired location.
-
-  video link:
-
-  chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/adc2d7c9-7399-4f42-y6aa-c1d251ce377e
-
-  terminal screenshot:
-  ![terminal](./Unsolved/utils/READMEGEN.png)
-
+  create readme.md file
+  
   ## Credits
   
-  I set up the license functions, the template, the package,  the questions, the file creation and finished the init function.
+  
   
   ## License
  
@@ -54,7 +45,7 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
  
   ## Test
   
-  I made sure all badges worked as well as not entering a license. All data is entered correctly and the read me is created as well.
+  
 
   ## Questions
 
@@ -64,6 +55,5 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
   sabinnat001@gmail.com
 
-  Feel free to reach me anytime with email.
-  
+  yes
 
