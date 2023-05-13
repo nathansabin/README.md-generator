@@ -32,7 +32,7 @@
 
   video link:
 
-  chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/adc2d7c9-7399-4f42-y6aa-c1d251ce377e
+  https://drive.google.com/file/d/1O23aPjSTfDb5rCIOylaZKDIpkVWfOnaR/view
 
   terminal screenshot:
   ![terminal](./Unsolved/utils/READMEGEN.png)
